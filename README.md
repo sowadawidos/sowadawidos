@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  Hy, my name is Dawid<br>🇵🇱  I'm from Poland and I live in Wrocław<br>🖥  I'm a Frontend Developer<br>💻  Technology stack: <br>      - React<br>      - React Native<br>      - JavaScript / HTML / CSS<br>      - Redux<br>      - Rest API<br>🌱 I’m currently learning: Python 
+🔭  Hy, my name is Dawid<br>🇵🇱  I'm from Poland and I live in Wrocław<br>🖥  I'm a Frontend Developer<br>🌱 I’m currently learning: Python 
 
 
 ## 🌐 Socials:
